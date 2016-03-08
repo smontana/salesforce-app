@@ -1,0 +1,20 @@
+{
+  "name": "salesforce-app",
+  "version": "1.0.0",
+  "git-repository": "https://github.com/smontana/salesforce-app.git",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
